@@ -16,3 +16,8 @@ This repository contains my AI-assisted development capstone project for the Fly
 
 ## Author
 Syeda Amnah Aslam
+
+## Project Overview
+This capstone demonstrates AI-assisted development practices using Git, GitHub, Node.js, and Cursor IDE.
+
+**Status:** Repository setup and documentation completed.
