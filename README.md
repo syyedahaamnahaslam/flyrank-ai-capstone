@@ -13,3 +13,6 @@ This repository contains my AI-assisted development capstone project for the Fly
 - Follow Conventional Commits
 - Maintain clear project documentation
 - Build a professional development workflow
+
+## Author
+Syeda Amnah Aslam
