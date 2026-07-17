@@ -14,3 +14,6 @@ This repository is for the FlyRank AI-assisted development capstone.
 - Write clean, readable code.
 - Keep documentation updated.
 - Make small, focused commits.
+
+## AI Assistant
+Cursor AI
