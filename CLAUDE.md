@@ -17,3 +17,9 @@ This repository is for the FlyRank AI-assisted development capstone.
 
 ## AI Assistant
 Cursor AI
+
+## Project Rules
+
+- Always define validation requirements before generating forms.
+- Always use semantic HTML with properly associated labels.
+- Always verify AI-generated code before committing changes.
